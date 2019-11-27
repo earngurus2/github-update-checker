@@ -1,5 +1,6 @@
 #github-update-checker
 
+[Free VPS Trial](https://techpanga.com/free-vps-trial/)
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
 It's really dumb, it just extracts all numbers from a tag name and doesn't use semver, so "v1.1.1" will become "111".
